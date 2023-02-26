@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'tommy';
+    src: url('./fonts/tommybold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+ 
+  @font-face {
+    font-family: 'tommyregular';
+    src: url('./fonts/tommyregular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  td{
+    padding: 20px;
+  }
+
+  #tableau-shoes{
+    text-align: center;
+  }
+
+h1{
+    font-family: 'tommyregular';
+}
+
+p{
+    font-family: 'tommyregular';
+}
